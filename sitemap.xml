@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//tabs.gold/categories/</loc>
+    <loc>https://tabs.gold/categories/</loc>
   </url>
   
   <url>
-    <loc>//tabs.gold/</loc>
+    <loc>https://tabs.gold/</loc>
   </url>
   
   <url>
-    <loc>//tabs.gold/tags/</loc>
+    <loc>https://tabs.gold/tags/</loc>
   </url>
   
 </urlset>
